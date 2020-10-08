@@ -1,4 +1,4 @@
-![READMESS](./READ-ME\Homework/READMESS.png)
+![READMESS](READMESS.png)
 
     
     ### [Title]
