@@ -48,7 +48,7 @@ inquirer.prompt([
         name:'installation'
     },
 
-    //usage
+    //Usage
     {
         type:'input',
         message:'Enter Your Usage Info',
